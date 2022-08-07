@@ -5,12 +5,12 @@ Resolução de exercícios de Python que treinam lógica e habilidades de progra
 1) Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B for menor que C.
 2) Faça um algoritmo que leia dois valores inteiros A e B se os valores forem iguais deverá se somar os dois, caso contrário multiplique A por B. Ao final de qualquer um dos cálculos deve-se atribuir o resultado para uma variável C e mostrar seu conteúdo na tela.
 3) Encontrar o dobro de um número caso ele seja positivo e o seu triplo caso seja negativo, imprimindo o resultado.
-4. Escreva um algoritmo que gera e escreve os números ímpares entre 100 e 200.
-5. Escreva um algoritmo que leia um valor inicial A e uma razão R e imprima uma seqüência em P.A. contendo 10 valores.
-6. Desenvolver um algoritmo que leia a altura de 15 pessoas. Este programa deverá calcular e mostrar:
+4) Escreva um algoritmo que gera e escreve os números ímpares entre 100 e 200.
+5) Escreva um algoritmo que leia um valor inicial A e uma razão R e imprima uma seqüência em P.A. contendo 10 valores.
+6) Desenvolver um algoritmo que leia a altura de 15 pessoas. Este programa deverá calcular e mostrar:
  * a. A menor altura do grupo;
  * b. A maior altura do grupo;
-7. Desenvolva um algoritmo que leia um número N DE VALORES e calcule e escreva a média aritmética dos valores lidos, a quantidade de valores positivos e a quantidade de valores negativos.
+7) Desenvolva um algoritmo que leia um número N DE VALORES e calcule e escreva a média aritmética dos valores lidos, a quantidade de valores positivos e a quantidade de valores negativos.
 8) Faça um algoritmo estruturado que leia um número N de números positivos. Calcule a quantidade de números pares e ímpares, a média de valores pares e a média geral dos números lidos. O número que encerrará a leitura será zero.
 9) Faça um Programa que leia uma lista de 10 números reais e mostre-os na ordem inversa.
 10) Faça um Programa que leia 10 notas e armazene-as dentro de uma lista. Em seguida mostre as notas e a média na tela.

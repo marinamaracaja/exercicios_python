@@ -1,5 +1,5 @@
 # Exercícios em Python
-Resolução de exercícios de Python que treinam lógica e habilidades de programação nesta linguagem.
+Resolução de exercícios em Python que treinam lógica e habilidades de programação nesta linguagem utilizando operações com operadores aritméticos, estruturas de laços de repetição e funções.
 
 ## Questões:
 1) Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B for menor que C.
